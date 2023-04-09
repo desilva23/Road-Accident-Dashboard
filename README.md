@@ -20,5 +20,5 @@ Description:
     . I have also attached Dashboard picture in png format
     . I have also attached the hyperfile of the dataset used (there are large number of data , so the hyperfile is used) [Accident-dataset]
     . You can download the dashboard in the form of '.twb'
-    .To view the files , download the zip file from this repository and have a look at the full responsive dashboard 
+    . To view the files , download the zip file from this repository and have a look at the full responsive dashboard 
     
